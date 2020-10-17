@@ -1,0 +1,1 @@
+final MAP_TOKEN = 'pk.eyJ1IjoianVsaWFuZnJhbmNvYWx2YXJhZG8iLCJhIjoiY2tmNzlrbWU3MDA5dTMxbXY5YXBnN2Z3NiJ9.of6WhCbnukPIEsLcxHUElw';
